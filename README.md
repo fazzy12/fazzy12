@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ifeanyi Kalu</h1>
 <h3 align="center">A passionate software engineer from Nigeria</h3>
 
- <img align="right" width="400" src="https://images.app.goo.gl/gFWorw3KD1s4ZeXt7" alt="ifeanyi kalu" srcset="">
+ <iframe src="https://giphy.com/embed/xTiTnxpQ3ghPiB2Hp6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animation-animated-gif-xTiTnxpQ3ghPiB2Hp6">via GIPHY</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fazzy12&label=Profile%20views&color=0e75b6&style=flat" alt="fazzy12" /> </p>
 
