@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ifeanyi Kalu</h1>
 <h3 align="center">A passionate software engineer from Nigeria</h3>
+
 <img align="right" width="400" src="https://i.gifer.com/1fZK.gif" alt="ifeanyi kalu" srcset="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fazzy12&label=Profile%20views&color=0e75b6&style=flat" alt="fazzy12" /> </p>
