@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ifeanyi Kalu</h1>
 <p>Welcome to my GitHub profile! I am a software engineer with a passion for creating innovative software solutions and solving complex problems. I have a strong background in Python javascript and c, and I am always looking to learn and expand my skillset.
 
-On my profile, you will find a variety of projects that showcase my abilities and interests. From frontend web-development, backend web-development and devOps, I have a diverse range of experience. Feel free to take a look around and reach out if you have any questions or want to collaborate on a project.
+On my profile, you will find a variety of projects that showcase my abilities and interests. From frontend web-development, backend web-development and devOps projects, I have a diverse range of experience. Feel free to take a look around and reach out if you have any questions or want to collaborate on a project.
 
 Thank you for visiting my profile, and I hope to connect with you soon.
 
 Sincerely,
-<h4>Ifeanyi kalu</h4>
+<p>Ifeanyi kalu</p>
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -27,9 +27,9 @@ Sincerely,
 | <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fazzy12" alt="fazzy12" /></a> </p> |
 
 
-| Skill       |
-|------------|
-| frontend |
+| Skill       |                       | Most used languages |
+|------------|                         |--------------------|
+| frontend |                           | | ![GitHub Contributions](https://github-readme-stats.vercel.app/api/top-langs?  username=fazzy12&show_icons=true&locale=en&layout=compact) |
 | backkednbackend |
 | devOps | Beginner |
 | technical writing |
@@ -69,6 +69,5 @@ Sincerely,
 
 | Statistic |
 |-----------|
-| ![GitHub Contributions](https://github-readme-stats.vercel.app/api/top-langs?username=fazzy12&show_icons=true&locale=en&layout=compact) |
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fazzy12&show_icons=true&locale=en) | 
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fazzy12&) |
