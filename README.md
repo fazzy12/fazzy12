@@ -73,9 +73,17 @@ Sincerely,
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fazzy12&show_icons=true&locale=en&layout=compact" alt="fazzy12" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fazzy12&show_icons=true&locale=en&layout=compact" alt="fazzy12" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fazzy12&show_icons=true&locale=en" alt="fazzy12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fazzy12&" alt="fazzy12" /></p>
 
+ -->
+
+| Statistic | Value |
+|-----------|-------|
+| Top Language | ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) |
+| Contributions in the past year | ![GitHub Contributions](https://github-readme-stats.vercel.app/api/top-langs?username=fazzy12&show_icons=true&locale=en&layout=compact) |
+| GitHub Stats | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fazzy12&show_icons=true&locale=en) |
+| Streak | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fazzy12&) |
