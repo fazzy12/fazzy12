@@ -67,6 +67,6 @@ Sincerely,
 
 | Statistic |
 |-----------|
-
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fazzy12&show_icons=true&locale=en) | | ![GitHub Contributions](https://github-readme-stats.vercel.app/api/top-langs?username=fazzy12&show_icons=true&locale=en&layout=compact) |
+| ![GitHub Contributions](https://github-readme-stats.vercel.app/api/top-langs?username=fazzy12&show_icons=true&locale=en&layout=compact) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fazzy12&show_icons=true&locale=en) | 
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fazzy12&) |
