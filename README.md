@@ -6,11 +6,10 @@ On my profile, you will find a variety of projects that showcase my abilities an
 Thank you for visiting my profile, and I hope to connect with you soon.
 
 Sincerely,
-  
 <h4>Ifeanyi kalu</h4>
 </p>
 
-<img align="right" width="400" src="https://i.gifer.com/1fZK.gif" alt="ifeanyi kalu" srcset="">
+<!-- <img align="right" width="400" src="https://i.gifer.com/1fZK.gif" alt="ifeanyi kalu" srcset=""> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fazzy12&label=Profile%20views&color=0e75b6&style=flat" alt="fazzy12" /> </p>
 
