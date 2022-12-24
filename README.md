@@ -17,19 +17,13 @@ Sincerely,
 | <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fazzy12" alt="fazzy12" /></a> </p> |
 
 
-<p align="left"> <a href="https://www.twitter.com/@fazzythegreat" target="blank"><img src="https://img.shields.io/twitter/follow/@fazzythegreat?logo=twitter&style=for-the-badge" alt="@fazzythegreat" /></a> </p>
+| Skill       |
+|------------|
+| frontend |
+| backkednbackend |
+| devOps | Beginner |
+| technical writing |
 
-- 🔭 I’m currently working on [BMI-CALCULATOR](https://bmi-calkulator.netlify.app)
-
-- 🌱 I’m currently learning **https://github.com/Asabeneh/30-Days-Of-JavaScript**
-
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/fazzy12/overview?_ga=2.260041994.1460442002.1659996931-587430732.1659996931](https://app.netlify.com/teams/fazzy12/overview?_ga=2.260041994.1460442002.1659996931-587430732.1659996931)
-
-- 📝 I regularly write articles on [https://hashnode.com/@Fazzy](https://hashnode.com/@Fazzy)
-
-- 💬 Ask me about **C, Javascript, react, python**
-
-- 📫 How to reach me **kaluifeany00@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
