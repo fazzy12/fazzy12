@@ -9,11 +9,8 @@ Sincerely,
 <h4>Ifeanyi kalu</h4>
 </p>
 
-<div style="padding-top:100.000%;position:relative;">
-  <iframe src="https://gifer.com/embed/81O8" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe>
-</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fazzy12&label=Profile%20views&color=0e75b6&style=flat" alt="fazzy12" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=fazzy12&label=Profile%20views&color=0e75b6&style=flat" alt="fazzy12" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fazzy12" alt="fazzy12" /></a> </p>
 
