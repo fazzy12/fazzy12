@@ -9,7 +9,7 @@ Sincerely,
 <h4>Ifeanyi kalu</h4>
 </p>
 
-<img srcset="image-1x.jpg 1x, image-2x.jpg 2x, image-3x.jpg 3x" src="https://i.gifer.com/1fZK.gif](https://i.gifer.com/81O8.gif" alt="ifeanyi kalu">
+<div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/81O8" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fazzy12&label=Profile%20views&color=0e75b6&style=flat" alt="fazzy12" /> </p>
 
