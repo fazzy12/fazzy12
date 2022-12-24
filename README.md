@@ -48,7 +48,12 @@ Sincerely,
 | <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> | C is a high-level programming language that is commonly used for system programming, as well as for creating applications that run on Windows, MacOS, and Linux. |
 | <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> | CSS (Cascading Style Sheets) is a stylesheet language used for describing the look and formatting of a document written in HTML. |
 | <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a> | Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design. |
-| <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a> | Express is a minimal and flexible Node.js web application framework that provides a
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> | Express is a minimalist web framework for Node.js that is designed to make it easy to build web applications and APIs. |
+| <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> | Flask is a lightweight Python web framework that is designed to be easy to use and flexible. | Building web servers and APIs with Python, quickly prototyping web applications |
+| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> | Git is a version control system that allows developers to track changes to their code and collaborate with others. | Managing code repositories, collaborating on code with team members |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> | HTML is a markup language used to structure and format the content of a web page. | Creating the structure and layout of web pages, adding content to web pages |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fazzy12&show_icons=true&locale=en&layout=compact" alt="fazzy12" /></p>
