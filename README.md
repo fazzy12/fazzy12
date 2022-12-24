@@ -56,9 +56,7 @@ Sincerely,
 | <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> | Kubernetes is an open-source container orchestration system that is used to automate the deployment, scaling, and management of containerized applications. |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> | Linux is an open-source operating system that is based on the Unix operating system. |
 | <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> | Materialize is a front-end framework that is based on Google's Material Design guidelines. |
-
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> | MongoDB is a NoSQL database that is designed to store and retrieve large amounts of data quickly. |
-
 |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> | uuhjdjnjnbjnws|
 <!-- </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> | space for writing | -->
   
