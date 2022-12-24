@@ -83,7 +83,6 @@ Sincerely,
 
 | Statistic | Value |
 |-----------|-------|
-| Top Language | ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) |
 | Contributions in the past year | ![GitHub Contributions](https://github-readme-stats.vercel.app/api/top-langs?username=fazzy12&show_icons=true&locale=en&layout=compact) |
 | GitHub Stats | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fazzy12&show_icons=true&locale=en) |
 | Streak | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fazzy12&) |
