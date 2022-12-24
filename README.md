@@ -9,7 +9,7 @@ Sincerely,
 <h4>Ifeanyi kalu</h4>
 </p>
 
-<!-- <img align="right" width="400" src="https://i.gifer.com/1fZK.gif" alt="ifeanyi kalu" srcset=""> -->
+<img srcset="image-1x.jpg 1x, image-2x.jpg 2x, image-3x.jpg 3x" src="https://i.gifer.com/1fZK.gif" alt="ifeanyi kalu">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fazzy12&label=Profile%20views&color=0e75b6&style=flat" alt="fazzy12" /> </p>
 
