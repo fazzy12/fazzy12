@@ -29,8 +29,8 @@ Sincerely,
 
 | Skill       |             
 |------------|                      
-| frontend |                
-| backkednbackend |
+| frontend | backkednbackend |           
+
 | devOps | Beginner |
 | technical writing |
 
