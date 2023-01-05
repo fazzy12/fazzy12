@@ -27,12 +27,12 @@ Sincerely,
 | <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fazzy12" alt="fazzy12" /></a> </p> |
 
 
-| Skill      |       skill   |
-|------------|---------------|                      
-| frontend   | backkednbackend |           
+|                           Skill                           |
+|------------|---------------|---------------------|--------|                      
+| frontend   | backkednbackend | technical writing | devOps |   
 
-| devOps | Beginner |
-| technical writing |
+
+
 
 
 | Language or Tool       | Description |
