@@ -27,7 +27,7 @@ Sincerely,
 | <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fazzy12" alt="fazzy12" /></a> </p> |
 
 
-| Skill           | Frontend      | Backend      | Technical Writing | DevOps |
+| Skills:           | Frontend      | Backend      | Technical Writing | DevOps |
 |----------------|---------------|---------------|--------------------|--------|
    
 
