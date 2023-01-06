@@ -27,7 +27,9 @@ Sincerely,
 [1.1]: https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg (fazzy12)
 [2.1]: https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg (@fazzythegreat)
 [3.1]: https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg (www.linkedin.com/in/ifeanyi-kalu)
-[4.1]:
+[4.1]: https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg (fazzy)
+[5.1]: https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg (@kaluifeanyi00)
+[6.1]: https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg (fazzy)
 
 
 
