@@ -8,7 +8,7 @@ Thank you for visiting my profile, and I hope to connect with you soon.
 Sincerely,
 <p>Ifeanyi kalu</p>
 </p>
-
+<!-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/fazzy12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fazzy12" height="30" width="40" /></a>
@@ -18,6 +18,26 @@ Sincerely,
 <a href="https://medium.com/@kaluifeanyi00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kaluifeanyi00" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/fazzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fazzy" height="30" width="40" /></a>
 </p>
+ -->
+ 
+ | Connect with me: |
+|------------------|
+| [![devto][1.1]][1] | [![twitter][2.1]][2] | [![linkedin][3.1]][3] |
+| [![hashnode][4.1]][4] | [![medium][5.1]][5] | [![leetcode][6.1]][6] |
+
+[1.1]: https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg (fazzy12)
+[2.1]: https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg (@fazzythegreat)
+[3.1]: https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg (www.linkedin.com/in/ifeanyi-kalu)
+[4.1]: https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg (fazzy)
+[5.1]: https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg (@kaluifeanyi00)
+[6.1]: https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg (fazzy)
+
+[1]: https://dev.to/fazzy12 (fazzy12)
+[2]: https://twitter.com/@fazzythegreat (@fazzythegreat)
+[3]: https://linkedin.com/in/www.linkedin.com/in/ifeanyi-kalu (www.linkedin.com/in/ifeanyi-kalu)
+[4]: https://hashnode.com/fazzy (fazzy)
+[5]: https://medium.com/@kaluifeanyi00 (@kaluifeanyi00)
+[6]: https://www.leetcode.com/fazzy (fazzy)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fazzy12&label=Profile%20views&color=0e75b6&style=flat" alt="fazzy12" /> </p>
