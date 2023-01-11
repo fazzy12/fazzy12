@@ -22,7 +22,7 @@ Sincerely,
 
 
 
-
+<hr>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fazzy12&label=Profile%20views&color=0e75b6&style=flat" alt="fazzy12" /> </p>
 
