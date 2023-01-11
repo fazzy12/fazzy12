@@ -20,10 +20,10 @@ Sincerely,
 </p>
  -->
  
+ <!-- | [![devto][1.1]][1] | [![twitter][2.1]][2] | [![linkedin][3.1]][3] | [![hashnode][4.1]][4] | [![medium][5.1]][5] | [![leetcode][6.1]] | -->
+ 
 | Connect with me: | | | | | |
 |------------------|-|-|-|-|-|
-| [![devto][1.1]][1] | [![twitter][2.1]][2] | [![linkedin][3.1]][3] | [![hashnode][4.1]][4] | [![medium][5.1]][5] | [![leetcode][6.1]] |
-
 [1.1]: https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg (fazzy12)
 [2.1]: https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg (@fazzythegreat)
 [3.1]: https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg (www.linkedin.com/in/ifeanyi-kalu)
