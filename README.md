@@ -10,8 +10,8 @@ Sincerely,
 </p>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://dev.to/fazzy12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fazzy12" height="30" width="40" /></a>
 <a href="https://twitter.com/@fazzythegreat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@fazzythegreat" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/ifeanyi-kalu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ifeanyi-kalu" height="30" width="40" /></a>
@@ -28,7 +28,7 @@ Sincerely,
 
 | Trophies |
 |--------|
-| <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fazzy12" alt="fazzy12" /></a> </p> |
+| <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fazzy12" alt="fazzy12" /></a> </p> |
 
 
 | Skills:           | Frontend      | Backend      | Technical Writing | DevOps |
