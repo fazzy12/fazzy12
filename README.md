@@ -6,7 +6,7 @@ On my profile, you will find a variety of projects that showcase my abilities an
 Thank you for visiting my profile, and I hope to connect with you soon.
 
 Sincerely,
-<p>Ifeanyi kalu</p>
+<p>Ifeanyi kalu.</p>
 </p>
 
 
