@@ -69,6 +69,8 @@ Sincerely,
 
 [![fazzy's GitHub | Stats](https://stats.quine.sh/fazzy/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=fazzy) 
 [![fazzy's GitHub | Topics Over Time](https://stats.quine.sh/fazzy/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=fazzy) 
+[![fazzy's GitHub | Languages Over Time](https://stats.quine.sh/fazzy/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=fazzy)
+[![fazzy's Stack Overflow | Stats](https://stats.quine.sh/fazzy/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=fazzy)
 
 <!-- |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> | knknknkn | -->
 <!-- |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> | hhhjhjjjhj | -->
