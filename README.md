@@ -67,6 +67,8 @@ Sincerely,
 |<img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> | Vagrant is a tool for building and managing virtual development environments. It allows developers to create and configure lightweight, reproducible, and portable development environments | 
 |<img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> | Webpack is a JavaScript module bundler that takes your JavaScript code, along with any other assets such as images or stylesheets, and bundles them together for use in a web application. It allows you to write modular code and then manage the dependencies between modules in your application. |
 
+[![fazzy's GitHub | Stats](https://stats.quine.sh/fazzy/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=fazzy)
+
 <!-- |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> | knknknkn | -->
 <!-- |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> | hhhjhjjjhj | -->
 
