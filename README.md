@@ -76,5 +76,3 @@ Sincerely,
 | ![GitHub Contributions](https://github-readme-stats.vercel.app/api/top-langs?username=fazzy12&show_icons=true&locale=en&layout=compact) | 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fazzy12&show_icons=true&locale=en) | 
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fazzy12&) |
-| [![fazzy's GitHub]](https://stats.quine.sh/fazzy/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=fazzy) |
-| [![fazzy's GitHub | Stats](https://stats.quine.sh/fazzy/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=fazzy) |
