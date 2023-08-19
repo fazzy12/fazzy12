@@ -11,13 +11,13 @@ Sincerely,
 
 <div align="center">
 
-|           Skills:           |    Frontend    |    Backend    | Technical Writing |  DevOps  |
-|------------------------|-------------|-------------|------------------|---------|
-| <sub>Programming Languages:</sub> | ...         | ...         | ...              | ...     |
-| <sub>Frameworks:</sub>          | ...         | ...         | ...              | ...     |
-| <sub>Tools:</sub>               | ...         | ...         | ...              | ...     |
+## Skills
+
+|    Frontend    |    Backend    | Technical Writing |  DevOps  |
+|---------------|---------------|-------------------|---------|
 
 </div>
+
 
 
 
