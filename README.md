@@ -68,7 +68,7 @@ Sincerely,
 |<img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> | Webpack is a JavaScript module bundler that takes your JavaScript code, along with any other assets such as images or stylesheets, and bundles them together for use in a web application. It allows you to write modular code and then manage the dependencies between modules in your application. |
 
 | [![fazzy's GitHub | Stats](https://stats.quine.sh/fazzy/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=fazzy) | [![fazzy's GitHub | Topics Over Time](https://stats.quine.sh/fazzy/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=fazzy) |
-|---|---|
+| --- | --- |
 | [![fazzy's GitHub | Languages Over Time](https://stats.quine.sh/fazzy/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=fazzy) | [![fazzy's Stack Overflow | Stats](https://stats.quine.sh/fazzy/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=fazzy) |
 
 
