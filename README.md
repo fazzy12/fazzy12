@@ -11,6 +11,7 @@ Sincerely,
 
 <div align="center">
 | Skills |
+|--------|   
 | Frontend      | Backend      | Technical Writing | DevOps |
 |----------------|---------------|---------------|----------|
 
