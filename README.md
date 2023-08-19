@@ -81,3 +81,10 @@ Sincerely,
 |---------------|
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fazzy12&) |
 | <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fazzy12" alt="fazzy12" /></a> </p> |
+
+
+| Statistic | GitHub Streak |
+|-----------|---------------|
+| ![GitHub Contributions](https://github-readme-stats.vercel.app/api/top-langs?username=fazzy12&show_icons=true&locale=en&layout=compact) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fazzy12&) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fazzy12&show_icons=true&locale=en) | <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fazzy12" alt="fazzy12" /></a> </p> |
+
