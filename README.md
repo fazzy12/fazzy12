@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ifeanyi Kalu</h1>
-<p>Welcome to my GitHub profile! I am a software engineer with a passion for creating innovative software solutions and solving complex problems. I have a strong background in Python javascript and c, and I am always looking to learn and expand my skill set.
+<p>Welcome to my GitHub profile! I am a software engineer with a passion for creating innovative software solutions and solving complex problems. I have a strong background in Python javascript and c, and I am always looking to learn and expand my skill set
 
 On my profile, you will find a variety of projects that showcase my abilities and interests. From frontend web development, backend web development, and DevOps projects, I have a diverse range of experience. Feel free to take a look around and reach out if you have any questions or want to collaborate on a project.
 
