@@ -74,9 +74,6 @@ Sincerely,
 
 
 
-<!-- |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> | knknknkn | -->
-<!-- |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> | hhhjhjjjhj | -->
-
 
 | Statistic |
 |-----------|
