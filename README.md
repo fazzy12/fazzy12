@@ -18,9 +18,6 @@ Sincerely,
 
 </div>
 
-
-
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://dev.to/fazzy12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fazzy12" height="30" width="40" /></a>
@@ -37,9 +34,7 @@ Sincerely,
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fazzy12&label=Profile%20views&color=0e75b6&style=flat" alt="fazzy12" /> </p>
 
-| Trophies |
-|--------|
-| <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fazzy12" alt="fazzy12" /></a> </p> |
+
 
 <div align="center">
   
@@ -74,3 +69,4 @@ Sincerely,
 | ![GitHub Contributions](https://github-readme-stats.vercel.app/api/top-langs?username=fazzy12&show_icons=true&locale=en&layout=compact) | 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fazzy12&show_icons=true&locale=en) | 
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fazzy12&) |
+| <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fazzy12" alt="fazzy12" /></a> </p> |
