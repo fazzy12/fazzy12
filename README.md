@@ -9,6 +9,13 @@ Sincerely,
 <p>Ifeanyi Kalu.</p>
 </p>
 
+<div align="center">
+
+| Skills:           | Frontend      | Backend      | Technical Writing | DevOps |
+|----------------|---------------|---------------|--------------------|--------|
+
+</div>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -30,12 +37,6 @@ Sincerely,
 |--------|
 | <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fazzy12" alt="fazzy12" /></a> </p> |
 
-<div align="center">
-
-| Skills:           | Frontend      | Backend      | Technical Writing | DevOps |
-|----------------|---------------|---------------|--------------------|--------|
-
-</div>
 
    
 | Python | JavaScript | C | Babel | CSS | HTML5 | Tailwind CSS | Node.js | Bash | Bootstrap | 
