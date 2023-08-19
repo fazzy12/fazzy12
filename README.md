@@ -10,8 +10,8 @@ Sincerely,
 </p>
 
 <div align="center">
-| Skills |
-|--------|   
+| Skills        |
+|---------------|   
 | Frontend      | Backend      | Technical Writing | DevOps |
 |---------------|--------------|-------------------|--------|
 
