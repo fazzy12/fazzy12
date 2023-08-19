@@ -53,36 +53,6 @@ Sincerely,
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> |
 </div>
 
-<style>
-.centered-table {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-</style>
-
-<div class="centered-table">
-  | [![fazzy's GitHub | Stats](https://bit.ly/45Ax4UA)](https://bit.ly/3QMAhMG) | [![fazzy's GitHub | Topics Over Time](https://bit.ly/3LaxV6L)](https://bit.ly/3QMAhMG) |
-  | --- | --- |
-  | [![fazzy's GitHub | Languages Over Time](https://bit.ly/3E3HKPD)](https://bit.ly/3QMAhMG) | [![fazzy's Stack Overflow | Stats](https://bit.ly/47Bc41M)](https://bit.ly/3QMAhMG) |
-</div>
-
-
-
-
-
-
-| Statistic |
-|-----------|
-| ![GitHub Contributions](https://github-readme-stats.vercel.app/api/top-langs?username=fazzy12&show_icons=true&locale=en&layout=compact) | 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fazzy12&show_icons=true&locale=en) | 
-
-| GitHub Streak |
-|---------------|
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fazzy12&) |
-| <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fazzy12" alt="fazzy12" /></a> </p> |
-
-
 | Statistic | GitHub Streak |
 |-----------|---------------|
 | ![GitHub Contributions](https://github-readme-stats.vercel.app/api/top-langs?username=fazzy12&show_icons=true&locale=en&layout=compact) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fazzy12&) |
