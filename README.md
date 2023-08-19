@@ -59,7 +59,7 @@ Sincerely,
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fazzy12&show_icons=true&locale=en) | <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fazzy12" alt="fazzy12" /></a> </p> |
 
 <hr>
-[![fazzy's GitHub | Stats](https://stats.quine.sh/fazzy/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=fazzy) [![fazzy's GitHub | Topics Over Time](https://stats.quine.sh/fazzy/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=fazzy)
-[![fazzy's GitHub | Languages Over Time](https://stats.quine.sh/fazzy/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=fazzy) [![fazzy's Stack Overflow | Stats](https://stats.quine.sh/fazzy/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=fazzy)
-
+| [![fazzy's GitHub | Stats](https://stats.quine.sh/fazzy/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=fazzy) | [![fazzy's GitHub | Topics Over Time](https://stats.quine.sh/fazzy/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=fazzy) |
+|---|---|
+| [![fazzy's GitHub | Languages Over Time](https://stats.quine.sh/fazzy/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=fazzy) | [![fazzy's Stack Overflow | Stats](https://stats.quine.sh/fazzy/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=fazzy) |
 
