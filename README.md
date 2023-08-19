@@ -10,12 +10,15 @@ Sincerely,
 </p>
 
 <div align="center">
-| Skills        |
-|---------------|   
-| Frontend      | Backend      | Technical Writing | DevOps |
-|---------------|--------------|-------------------|--------|
+
+|           Skills:           |    Frontend    |    Backend    | Technical Writing |  DevOps  |
+|------------------------|-------------|-------------|------------------|---------|
+| <sub>Programming Languages:</sub> | ...         | ...         | ...              | ...     |
+| <sub>Frameworks:</sub>          | ...         | ...         | ...              | ...     |
+| <sub>Tools:</sub>               | ...         | ...         | ...              | ...     |
 
 </div>
+
 
 
 <h3 align="center">Connect with me:</h3>
