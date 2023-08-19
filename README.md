@@ -60,6 +60,12 @@ Sincerely,
 | --- | --- |
 | [![fazzy's GitHub | Languages Over Time](https://stats.quine.sh/fazzy/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=fazzy) | [![fazzy's Stack Overflow | Stats](https://stats.quine.sh/fazzy/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=fazzy) |
 
+test
+
+| [![fazzy's GitHub | Stats](https://bit.ly/45Ax4UA)](https://bit.ly/3QMAhMG) | [![fazzy's GitHub | Topics Over Time](https://bit.ly/3LaxV6L)](https://bit.ly/3QMAhMG) |
+| --- | --- |
+| [![fazzy's GitHub | Languages Over Time](https://bit.ly/3E3HKPD)](https://bit.ly/3QMAhMG) | [![fazzy's Stack Overflow | Stats](https://bit.ly/47Bc41M)](https://bit.ly/3QMAhMG) |
+
 
 
 
