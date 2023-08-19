@@ -53,13 +53,20 @@ Sincerely,
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> |
 </div>
 
-<div align="center">
+<style>
+.centered-table {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+</style>
 
-| [![fazzy's GitHub | Stats](https://bit.ly/45Ax4UA)](https://bit.ly/3QMAhMG) | [![fazzy's GitHub | Topics Over Time](https://bit.ly/3LaxV6L)](https://bit.ly/3QMAhMG) |
-| --- | --- |
-| [![fazzy's GitHub | Languages Over Time](https://bit.ly/3E3HKPD)](https://bit.ly/3QMAhMG) | [![fazzy's Stack Overflow | Stats](https://bit.ly/47Bc41M)](https://bit.ly/3QMAhMG) |
-
+<div class="centered-table">
+  | [![fazzy's GitHub | Stats](https://bit.ly/45Ax4UA)](https://bit.ly/3QMAhMG) | [![fazzy's GitHub | Topics Over Time](https://bit.ly/3LaxV6L)](https://bit.ly/3QMAhMG) |
+  | --- | --- |
+  | [![fazzy's GitHub | Languages Over Time](https://bit.ly/3E3HKPD)](https://bit.ly/3QMAhMG) | [![fazzy's Stack Overflow | Stats](https://bit.ly/47Bc41M)](https://bit.ly/3QMAhMG) |
 </div>
+
 
 
 
