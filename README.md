@@ -61,5 +61,5 @@ Sincerely,
 
 | [![fazzy's GitHub | Stats](https://bit.ly/45Ax4UA)](https://bit.ly/3QMAhMG) |  [![fazzy's Stack Overflow | Stats](https://bit.ly/47Bc41M)](https://bit.ly/3QMAhMG)   |
 
-| [![fazzy's GitHub | Languages Over Time](https://bit.ly/3E3HKPD)](https://bit.ly/3QMAhMG) | [![fazzy's GitHub | Topics Over Time](https://bit.ly/3LaxV6L)](https://bit.ly/3QMAhMG) |
+[![fazzy's GitHub | Languages Over Time](https://bit.ly/3E3HKPD)](https://bit.ly/3QMAhMG) | [![fazzy's GitHub | Topics Over Time](https://bit.ly/3LaxV6L)](https://bit.ly/3QMAhMG) 
 
