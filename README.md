@@ -59,8 +59,7 @@ Sincerely,
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fazzy12&show_icons=true&locale=en) | <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fazzy12" alt="fazzy12" /></a> </p> |
 
 
-[![fazzy's GitHub | Stats](https://bit.ly/45Ax4UA)](https://bit.ly/3QMAhMG) [![fazzy's GitHub | Dependencies](https://bit.ly/3qEgDrv)](https://bit.ly/3QMAhMG) [![fazzy's Stack Overflow | Stats](https://bit.ly/47Bc41M)](https://bit.ly/3QMAhMG) 
-
+[![fazzy's GitHub | Stats](https://bit.ly/45Ax4UA)](https://bit.ly/3QMAhMG) [![fazzy's GitHub | Dependencies](https://bit.ly/3qEgDrv)](https://bit.ly/3QMAhMG) 
 [![fazzy's GitHub | Languages Over Time](https://bit.ly/3E3HKPD)](https://bit.ly/3QMAhMG) 
 [![fazzy's GitHub | Topics Over Time](https://bit.ly/3LaxV6L)](https://bit.ly/3QMAhMG) 
 
