@@ -6,13 +6,16 @@
 
 ### Skills
 
-- **Frontend Development**: I have experience in frontend technologies like HTML5, CSS3, and JavaScript. I also have experience with modern frontend frameworks like React and Sass.
+- **Frontend Development**: I have experience in frontend technologies like HTML5, CSS3, and JavaScript. I've honed my frontend skills, mastering modern frontend frameworks like React and Sass. This has allowed me to create responsive and engaging user interfaces.
 
-- **Backend Development**: My skills extend to backend development with frameworks like Django, Express, and Flask. I have worked on projects involving server-side scripting and API development.
+- **Backend Development**: My skills extend to backend development with frameworks like Django, Express, and Flask. I've learned about server-side scripting, RESTful API development, and database management. 
 
-- **Technical Writing**: I believe in effective communication, and I have engaged in technical writing. This skill is crucial for documenting projects and sharing knowledge.
+- **Technical Writing**: Effective communication is essential in software development. I can document projects, write clear code comments, and create detailed technical documentation.
 
-- **DevOps**: I have experience in DevOps practices, including deploying applications, using tools like Docker, Kubernetes, and Git. I also have experience with Linux, which is essential for server management.
+- **DevOps**: I have hands-on experience with DevOps practices, including CI/CD (Continuous Integration and Continuous Deployment) pipelines. I use tools like Docker, Kubernetes, and Git for efficient application deployment and management.
+
+- **Linux**: Proficient in Linux, I can configure and maintain server environments.
+
 
 ### Projects
 
