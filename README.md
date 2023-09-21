@@ -74,7 +74,7 @@ Ifeanyi Kalu
 
 <div align="center">
   
-## tools
+## Tools
 
 | Python | JavaScript | C | Babel | CSS | HTML5 | Tailwind CSS | Node.js | Bash | Bootstrap | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
