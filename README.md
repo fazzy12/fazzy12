@@ -1,7 +1,8 @@
+<div align="center">
 # Ifeanyi Kalu - Software Engineer
 
 ## Welcome to my GitHub Profile!
-
+</div>
 I'm Ifeanyi Kalu, a dynamic and motivated software engineer with a strong foundation in programming languages such as C, Python, and JavaScript. With a passion for developing innovative solutions and a commitment to staying updated on industry trends and best practices, I thrive in both frontend and backend development environments. Here's a brief overview of my skills and interests based on my GitHub activity:
 
 
@@ -19,7 +20,6 @@ You can explore a variety of projects on my GitHub profile showcasing my abiliti
 
 You can connect with me on various platforms:
 
-- GitHub: [@fazzy12](https://github.com/fazzy12)
 - LinkedIn: [Ifeanyi Kalu](www.linkedin.com/in/ifeanyi-kalu)
 - Email: kaluifeanyi00@gmail.com
 - Twitter: [@fazzythegreat](https://twitter.com/fazzythegreat)
