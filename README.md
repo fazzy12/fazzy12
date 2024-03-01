@@ -2,19 +2,7 @@
 
 ## Welcome to my GitHub Profile!
 
-👋 Hi, I'm Ifeanyi Kalu, a passionate software engineer with a strong background in Python, JavaScript, and C. I love creating innovative software solutions and solving complex problems. Here's a brief overview of my skills and interests based on my GitHub activity:
-
-### Skills
-
-- **Frontend Development**: I have experience in frontend technologies like HTML5, CSS3, and JavaScript. I've honed my frontend skills, mastering modern frontend frameworks like React and Sass. This has allowed me to create responsive and engaging user interfaces.
-
-- **Backend Development**: My skills extend to backend development with frameworks like Django, Express, and Flask. I've learned about server-side scripting, RESTful API development, and database management. 
-
-- **Technical Writing**: Effective communication is essential in software development. I can document projects, write clear code comments, and create detailed technical documentation.
-
-- **DevOps**: I have hands-on experience with DevOps practices, including CI/CD (Continuous Integration and Continuous Deployment) pipelines. I use tools like Docker, Kubernetes, and Git for efficient application deployment and management.
-
-- **Linux**: Proficient in Linux, I can configure and maintain server environments.
+I'm Ifeanyi Kalu, a dynamic and motivated software engineer with a strong foundation in programming languages such as C, Python, and JavaScript. With a passion for developing innovative solutions and a commitment to staying updated on industry trends and best practices, I thrive in both frontend and backend development environments. Here's a brief overview of my skills and interests based on my GitHub activity:
 
 
 ### Projects
