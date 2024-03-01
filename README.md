@@ -7,15 +7,13 @@ I'm Ifeanyi Kalu, a dynamic and motivated software engineer with a strong founda
 
 ### Projects
 
-You can explore a variety of projects on my GitHub profile that showcase my abilities and interests. These projects cover a wide range of topics, including frontend web development, backend web development, and DevOps. Feel free to check them out and provide feedback or collaborate on any project that catches your interest.
+You can explore a variety of projects on my GitHub profile showcasing my abilities and interests in software development:
 
-### Achievements
+[Simple Shell](https://github.com/essien1990/simple_shell): Developed a simplified version of the Linux shell replicating many functionalities of a real shell using C programming language. Managed commands, handled built-in commands, and ensured robustness by handling various conditions.
 
-I'm proud to have achieved the following on GitHub:
+[AirBnBClone](https://github.com/fazzy12/AirBnB_clone_v4): Contributed to the development of multiple versions of the AirBnB Clone project, implementing various features and improvements across different versions using Python, Flask, and Flask-CORS.
 
-- Achievement: YOLO
-- Achievement: Pull Shark
-- Achievement: Arctic Code Vault Contributor
+[MontyInterpreter](https://github.com/fazzy12/monty): Developed the Monty Bytecode Interpreter compliant with ISO standards in the C language. Handled opcode execution, stack and queue management, and implemented error handling for robust interpreter behavior.
 
 ### Contact Me!
 
