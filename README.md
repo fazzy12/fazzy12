@@ -19,7 +19,7 @@ Just a software engineer who loves building elegant solutions, simplifying compl
 ## Connect with Me  
 Let’s build something cool together:  
 - [LinkedIn](https://linkedin.com/in/ifeanyi-kalu)  
-- **Email:** mailto:kaluifeanyi00@gmail.com  
+- **Email:** kaluifeanyi00@gmail.com  
 
 
 
