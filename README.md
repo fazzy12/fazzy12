@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   
 # Ifeanyi Kalu  
 Just a software engineer who loves building elegant solutions, simplifying complexity, and creating awesome software.  
