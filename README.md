@@ -13,13 +13,13 @@ Just a software engineer who loves building elegant solutions, simplifying compl
 
 ## Random Things I Do  
 - Write technical blogs on Medium.  
-- Share tips and experiences on [Twitter](https://twitter.com/fazzythegreat).  
+- Share tips and experiences on [Twitter](https://twitter.com/devfazzy).  
 - Build open-source projects to learn and grow.  
 
 ## Connect with Me  
 Let’s build something cool together:  
 - [LinkedIn](https://linkedin.com/in/ifeanyi-kalu)  
-- **Email:** kaluifeanyi00@gmail.com  
+- **Email:** mailto:kaluifeanyi00@gmail.com  
 
 
 
