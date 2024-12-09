@@ -5,10 +5,11 @@ Just a software engineer who loves building elegant solutions, simplifying compl
 
 ## Fun Facts  
 - Almost all my GitHub projects were built while exploring new ideas.  
-- Passionate about crafting efficient backend systems and sleek frontend designs.  
+- Passionate about crafting efficient backend systems with **Node.js**, **Go**, and **Python**.  
 - I love diving into memory management and low-level programming with C.  
 - I've contributed to projects like **Simple Shell**, **AirBnBClone**, and **Monty Interpreter**.  
-- Big fan of Flask, Django, and all things Pythonic.  
+- Big fan of Flask, Django, and exploring Go’s concurrency and performance capabilities.
+
 
 ## Random Things I Do  
 - Write technical blogs on Medium.  
