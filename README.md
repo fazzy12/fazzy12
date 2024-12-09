@@ -7,7 +7,7 @@ Just a software engineer who loves building elegant solutions, simplifying compl
 - Almost all my GitHub projects were built while exploring new ideas.  
 - Passionate about crafting efficient backend systems with **Node.js**, **Go**, and **Python**.  
 - I love diving into memory management and low-level programming with C.  
-- I've contributed to projects like **Simple Shell**, **AirBnBClone**, and **Monty Interpreter**.  
+- I've contributed to projects like **Simple Shell**, **AirBnBClone**, and **Monty Interpreter** and many more.  
 - Big fan of Flask, Django, and exploring Go’s concurrency and performance capabilities.
 
 
@@ -20,27 +20,6 @@ Just a software engineer who loves building elegant solutions, simplifying compl
 Let’s build something cool together:  
 - [LinkedIn](https://linkedin.com/in/ifeanyi-kalu)  
 - **Email:** kaluifeanyi00@gmail.com  
-
-
-
-<div align="center">
-
-## Skills
-
-|    Frontend    |    Backend    | Technical Writing |  DevOps  |
-|---------------|---------------|-------------------|---------|
-
-</div>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://dev.to/fazzy12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fazzy12" height="30" width="40" /></a>
-<a href="https://twitter.com/@fazzythegreat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@fazzythegreat" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/ifeanyi-kalu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ifeanyi-kalu" height="30" width="40" /></a>
-<a href="https://hashnode.com/fazzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="fazzy" height="30" width="40" /></a>
-<a href="https://medium.com/@kaluifeanyi00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kaluifeanyi00" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/fazzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fazzy" height="30" width="40" /></a>
-</p>
 
 
 
